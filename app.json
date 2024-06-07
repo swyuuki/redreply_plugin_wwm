@@ -1,0 +1,7 @@
+{
+	"name":"今日运势",
+	"description":"收到 #fortune 发送一张运势图。",
+	"author":"super1207",
+	"version":"0.0.1",
+	"need_python":false
+}
