@@ -2,6 +2,6 @@
 	"name":"围围猫",
 	"description":"发送 开始围围猫 开始游戏，发送 结束围围猫 强制结束游戏。",
 	"author":"swyuuki",
-	"version":"0.0.1",
+	"version":"0.0.2",
 	"need_python":false
 }
